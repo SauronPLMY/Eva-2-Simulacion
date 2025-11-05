@@ -102,3 +102,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialVelocity: {x: 0, y: 0}
   gravity: -9.8
+  collisionRadius: 0.3
+  energyLoss: 0.3
+  maxBounces: 3
+  damageText: {fileID: 0}
+  resistenciaAgua: 0.3
+  gravedadEnAgua: -40
